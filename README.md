@@ -1,13 +1,9 @@
-# AI Scenario Simulator
+# AI Scenario Chat
 
-This repository contains code for generating and running interactive AI scenarios.
-
-## Features
-- Scenario generation with different themes
-- Simple command-line interface
-- Easy to extend with more themes and logic
+A simple terminal-based chat interface for AI scenarios.
 
 ## How to run
 ```bash
-python scenario.py
+pip install -r requirements.txt
+python chat.py
 ```
